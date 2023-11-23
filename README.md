@@ -1,4 +1,4 @@
-# Setup Instructions for Dashboard API
+# Setup Instructions for Admin API
 
 ## Prerequisites
 
