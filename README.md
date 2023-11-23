@@ -14,8 +14,8 @@ Ensure you have Node.js,npm,and PostgreSQL
    Create a database that matches the name given in config.json and db.config.json
 
 Run the commands:
-npx sequelize-cli db:migrate
-npx sequelize-cli db:seed:all
+1. npx sequelize-cli db:migrate
+2. npx sequelize-cli db:seed:all
 
 Start the server:
 npm start
